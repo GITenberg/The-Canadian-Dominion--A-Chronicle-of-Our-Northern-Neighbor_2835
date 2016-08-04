@@ -1,0 +1,42 @@
+_repo: The-Canadian-Dominion--A-Chronicle-of-Our-Northern-Neighbor_2835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Skelton, Oscar D. (Oscar Douglas)
+    aliases:
+    - Skelton, Oscar Douglas
+    - Skelton, O. D. (Oscar Douglas)
+    birthdate: 1878
+    deathdate: 1941
+    gutenberg_agent_id: '1047'
+    url: http://www.gutenberg.org/2009/agents/1047
+    wikipedia: http://en.wikipedia.org/wiki/Oscar_D._Skelton
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: v. 49. The Canadian Dominion / Oscar C. Skelton -- The Hispanic nations
+  of the New World / William R. Shepherd.
+gutenberg_bookshelf:
+- Children's History
+- United States
+- Canada
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2835'
+language: en
+publication_note: 'New Haven :  Yale University Press,  1919'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 49
+subjects:
+- !lcsh 'Canada -- History -- 1763-'
+- !lcc 'F1001'
+- GITenberg
+title: 'The Canadian Dominion: A Chronicle of Our Northern Neighbor'
+url: http://www.gutenberg.org/ebooks/2835
